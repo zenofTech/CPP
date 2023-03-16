@@ -27,7 +27,7 @@ git clone https://github.com/zenoftech/CPP.git
 > **Note** Linux users, you have to compile the file using;
 
 ```
-g++ fahrenheit_to_celsius.cpp
+g++ fahrenheit_to_Celsius.cpp
 ```
 
 ## view
