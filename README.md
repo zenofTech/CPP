@@ -8,7 +8,7 @@
 
 > *Usage*
 
-**Note** For normal user who is not a developer, click  <a href="./fahrenheit_to_celsius.exe">here</a> to download the executable file and run it in your pc.
+> **Note** For normal user who is not a developer, click  <a href="./fahrenheit_to_celsius.exe">here</a> to download the executable file and run it in your pc.
 
 - Output after running the executable file.
 
@@ -31,7 +31,7 @@ g++ fahrenheit_to_celsius.cpp
 ```
 
 ## view
-**Note** I want the name of the compile file to be `output` that is why I use the argument `-o output` after the file name.
+> **Note** I want the name of the compile file to be `output` that is why I use the argument `-o output` after the file name.
 
 <p align="center"><img src="./kali.jpg" />
 </p>
