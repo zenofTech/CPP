@@ -8,7 +8,7 @@
 
 > *Usage*
 
-> **Note** For normal user who is not a developer, click  <a href="./fahrenheit_to_celsius.exe">here</a> to download the executable file and run it in your pc.
+> **Note** For normal user who is not a developer, click  <a href="https://github.com/zenoftech/CPP/blob/main/fahrenheit_to_Celsius.exe">here</a> to download the executable file and run it in your pc.
 
 - Output after running the executable file.
 
